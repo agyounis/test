@@ -1,0 +1,5 @@
+libnmae x "sdsadadad";
+
+
+proc freq data = xyz;
+run;
